@@ -1,0 +1,29 @@
+C:\Users\USER\source\repos\second c#\second c#\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\USER\source\repos\second c#\second c#\bin\Debug\net8.0\appsettings.json
+C:\Users\USER\source\repos\second c#\second c#\bin\Debug\net8.0\second c#.staticwebassets.endpoints.json
+C:\Users\USER\source\repos\second c#\second c#\bin\Debug\net8.0\second c#.exe
+C:\Users\USER\source\repos\second c#\second c#\bin\Debug\net8.0\second c#.deps.json
+C:\Users\USER\source\repos\second c#\second c#\bin\Debug\net8.0\second c#.runtimeconfig.json
+C:\Users\USER\source\repos\second c#\second c#\bin\Debug\net8.0\second c#.dll
+C:\Users\USER\source\repos\second c#\second c#\bin\Debug\net8.0\second c#.pdb
+C:\Users\USER\source\repos\second c#\second c#\obj\Debug\net8.0\second c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\second c#\second c#\obj\Debug\net8.0\second c#.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\second c#\second c#\obj\Debug\net8.0\second c#.AssemblyInfo.cs
+C:\Users\USER\source\repos\second c#\second c#\obj\Debug\net8.0\second c#.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\second c#\second c#\obj\Debug\net8.0\second c#.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\source\repos\second c#\second c#\obj\Debug\net8.0\scopedcss\bundle\second c#.styles.css
+C:\Users\USER\source\repos\second c#\second c#\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\USER\source\repos\second c#\second c#\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\USER\source\repos\second c#\second c#\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\USER\source\repos\second c#\second c#\obj\Debug\net8.0\staticwebassets\msbuild.second c#.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\source\repos\second c#\second c#\obj\Debug\net8.0\staticwebassets\msbuild.second c#.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\USER\source\repos\second c#\second c#\obj\Debug\net8.0\staticwebassets\msbuild.build.second c#.props
+C:\Users\USER\source\repos\second c#\second c#\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.second c#.props
+C:\Users\USER\source\repos\second c#\second c#\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.second c#.props
+C:\Users\USER\source\repos\second c#\second c#\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\USER\source\repos\second c#\second c#\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\USER\source\repos\second c#\second c#\obj\Debug\net8.0\second c#.dll
+C:\Users\USER\source\repos\second c#\second c#\obj\Debug\net8.0\refint\second c#.dll
+C:\Users\USER\source\repos\second c#\second c#\obj\Debug\net8.0\second c#.pdb
+C:\Users\USER\source\repos\second c#\second c#\obj\Debug\net8.0\second c#.genruntimeconfig.cache
+C:\Users\USER\source\repos\second c#\second c#\obj\Debug\net8.0\ref\second c#.dll
